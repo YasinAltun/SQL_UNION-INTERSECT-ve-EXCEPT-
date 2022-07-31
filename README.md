@@ -1,0 +1,2 @@
+# SQL_UNION-INTERSECT-ve-EXCEPT-
+Patika.Dev_SQL_Odev_11
